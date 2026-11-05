@@ -152,7 +152,7 @@ body {
     top: -60%;
     left: -70%;
     z-index: 1;
-    width: 35%;
+    width: 30%;
     height: 220%;
     background: linear-gradient(
         90deg,
@@ -163,8 +163,8 @@ body {
         transparent
     );
     filter: blur(1px);
-    transform: skewX(-25deg);
-    animation: secondary-shine 2.5s ease-in-out infinite;
+    transform: skewX(-50deg);
+    animation: secondary-shine 5s ease-in-out infinite;
     pointer-events: none;
 }
 
